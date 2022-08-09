@@ -1,0 +1,12 @@
+{
+  "name": "play",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@cucumber/cucumber": "^8.5.1",
+    "@playwright/test": "^1.24.1",
+    "playwright": "^1.24.2"
+  },
+  "scripts": {}
+}
